@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{4D051E9B-72D9-4D38-887A-A65ADFCB51DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDB", "TestDB\TestDB.csproj", "{B1A15A34-067B-4AAB-B88C-D5F8E103A572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D051E9B-72D9-4D38-887A-A65ADFCB51DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D051E9B-72D9-4D38-887A-A65ADFCB51DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D051E9B-72D9-4D38-887A-A65ADFCB51DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D051E9B-72D9-4D38-887A-A65ADFCB51DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A15A34-067B-4AAB-B88C-D5F8E103A572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A15A34-067B-4AAB-B88C-D5F8E103A572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA221B5-CA53-41D8-ABC4-0412554F1E65}
+	EndGlobalSection
+EndGlobal

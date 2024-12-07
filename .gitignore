@@ -1,0 +1,76 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Rider specific files
+.idea/
+*.iml
+
+# Rider & VSCode shared project settings
+*.workspace
+
+# ReSharper folders and files
+*.DotSettings.user
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# C# garbage files
+bin/
+obj/
+*.dll
+*.exe
+*.log
+*.pdb
+*.cache
+*.tmp
+*.csproj.user
+*.vbproj.user
+*.pidb
+*.userprefs
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Visual Studio Code settings
+.vscode/
+
+# Debug and Release folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Generated files
+*.g.cs
+*.g.i.cs
+
+# Logs and reports
+*.log
+TestResult*/
+*.trx
+*.coverage
+*.coveragexml
+*.lcov
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider logs and cache
+.idea/
+.idea_modules/
+.idea_test_output/
+out/
+
+# Other IDE-specific files
+*.cache/
+.vscode/
+*.sln.ide/
